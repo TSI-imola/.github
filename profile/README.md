@@ -37,4 +37,4 @@
  * Miglioramento continuo: Contribuire alla crescita della repository nel tempo.
 
 ```Avviso: L'amministratore delle repository si riserva il diritto di rimuovere qualsiasi contenuto che violi queste linee guida.
-Collaboriamo per creare una risorsa preziosa per tutti gli studenti di Informatica.```
+Collaboriamo per creare una risorsa preziosa per tutti gli studenti di Informatica.
