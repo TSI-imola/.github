@@ -14,10 +14,10 @@
 - Fisica
 
 ## 📍Linee Guida:
-### Buona qualità dei contenuti:
+### Qualità dei contenuti:
    * **Chiarezza:** Non si richiede una struttura precisa, basta rimanere nei limiti della comprensione umana.
    * **Pertinenza:** I contenuti devono essere direttamente collegati al programma di studi e alle materie indicate.
-   * **Originalità:** Si incoraggia la condivisione di appunti personali, ma se possibile è ben accetto citare le fonti nel caso di materiale tratto da libri o siti web.
+   * **Originalità:** Si incoraggia la condivisione di appunti personali, ma se possibile è ben accetto citare le fonti nel caso di materiale tratto da libri, siti web o se generato da Ai.
 ### Formato dei file:
    * **Nomenclatura:** Utilizzare nomi di file chiari e descrittivi (es. "Appunti_Algoritmi_ProfRossi.pdf").
 ### Organizzazione:
