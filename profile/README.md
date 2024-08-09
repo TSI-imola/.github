@@ -1,7 +1,7 @@
 # Appunti "Tecnologie dei Sistemi Informatici" Unibo
 
 ## 🙋‍♀️Introduzione:
-*Questa Repository ha l'obbiettivo di creare una risorsa condivisa e affidabile per tutti gli studenti di "Tecnologie dei Sistemi Informatici" e non sará sempre pubblica e disponibile a tutti, con la speranza che con il passare degli anni tutti possano usufruirne per facilitare lo studio e per aumentare la curiosità in questo campo.*
+*Questa Repository ha l'obbiettivo di creare una risorsa condivisa e affidabile per tutti gli studenti di "Tecnologie dei Sistemi Informatici" e rimarrà sempre pubblica e disponibile a tutti, con la speranza che con il passare degli anni tutti possano usufruirne per facilitare lo studio e per aumentare la curiosità in questo campo.*
 
 ## 👩‍💻Repositories:
 - Elementi di Matematica per l'Informatica
