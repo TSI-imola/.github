@@ -1,12 +1,11 @@
-# Appunti Pubblici per l'indirizzo "Tecnologie dei Sistemi Informatici"
+# Appunti Laurea Professionalizzante Unibo "Tecnologie dei Sistemi Informatici"
 
 ## 🙋‍♀️Introduzione:
 *Questa Repository ha l'obbiettivo di creare una risorsa condivisa e affidabile per tutti gli studenti di "Tecnologie dei Sistemi Informatici" e non sará sempre pubblica e disponibile a tutti, con la speranza che con il passare degli anni tutti possano usufruirne per facilitare lo studio e per aumentare la curiosità in questo campo.*
 
-## 👩‍💻Materie:
-**Primo Anno:**
-- Matematica [Vuoto]
-- Programmazione [Esercizi]
+## 👩‍💻Repositories:
+- Matematica
+- Programmazione
 - Reti
 - Architetture
 - Basi di Dati
@@ -37,5 +36,5 @@
  * Rispetto: Creare un ambiente di studio collaborativo.
  * Miglioramento continuo: Contribuire alla crescita della repository nel tempo.
 
-```Avviso: L'amministratore della repository si riserva il diritto di rimuovere qualsiasi contenuto che violi queste linee guida.
-Collaboriamo per creare una risorsa preziosa per tutti gli studenti di Informatica!```
+```Avviso: L'amministratore delle repository si riserva il diritto di rimuovere qualsiasi contenuto che violi queste linee guida.
+Collaboriamo per creare una risorsa preziosa per tutti gli studenti di Informatica.```
