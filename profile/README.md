@@ -1,7 +1,7 @@
 # Appunti Pubblici per l'indirizzo "Tecnologie dei Sistemi Informatici"
 
 ## 🙋‍♀️Introduzione:
-*Questa Repository sará sempre pubblica e disponibile a tutti, con l' obbiettivo di essere aggiornata dagli studenti che seguiranno anno dopo anno, cosí da migliorare lo studio degli studenti che verranno nel futuro.*
+*Questa Repository ha l'obbiettivo di creare una risorsa condivisa e affidabile per tutti gli studenti di "Tecnologie dei Sistemi Informatici" e non sará sempre pubblica e disponibile a tutti, con la speranza che con il passare degli anni tutti possano usufruirne per facilitare lo studio e per aumentare la curiosità in questo campo.*
 
 ## 👩‍💻Materie:
 **Primo Anno:**
@@ -12,38 +12,30 @@
 - Basi di Dati
 - Fondamenti dei Sistemi Web
 - Sistemi Virtualizzati
-*- Fisica
+- Fisica
 
 ## 📍Linee Guida:
-**Obiettivo:** Creare una risorsa condivisa e affidabile per gli studenti di "Tecnologie dei Sistemi Informatici"
-### **Regole:**
+### Buona qualità dei contenuti:
+   * **Chiarezza:** Non si richiede una struttura precisa, basta rimanere nei limiti della comprensione umana.
+   * **Pertinenza:** I contenuti devono essere direttamente collegati al programma di studi e alle materie indicate.
+   * **Originalità:** Si incoraggia la condivisione di appunti personali, ma se possibile è ben accetto citare le fonti nel caso di materiale tratto da libri o siti web.
 
-**Qualità dei contenuti:**
-   * Chiarezza: Gli appunti devono essere ben strutturati, comprensibili e privi di errori grammaticali.
-   * Pertinenza: I contenuti devono essere direttamente collegati al programma di studi e alle materie indicate.
-   * Originalità: Si incoraggia la condivisione di appunti personali, ma è importante citare le fonti nel caso di materiale tratto da libri o siti web.
+### Formato dei file:
+   * **Nomenclatura:** Utilizzare nomi di file chiari e descrittivi (es. "Appunti_Algoritmi_ProfRossi.pdf").
 
-**Formato dei file:**
-   * Preferibilmente: PDF, Markdown, o formati compatibili con i principali sistemi operativi.
-   * Nomenclatura: Utilizzare nomi di file chiari e descrittivi (es. "Appunti_Algoritmi_ProfRossi.pdf").
+### Organizzazione:
+   * **Cartelle:** Organizzare i file in cartelle, si può usare la struttura che si vuole purché i contenuti siano caricati nelle Repository delle materie specifiche.
+   * Tag: Se possibile utilizzare tag per facilitare la ricerca (es. "esame", "appunti", "progetto").
 
-**Organizzazione:**
-   * Cartelle: Organizzare i file in cartelle per materia e anno accademico (es. "Primo_Anno/Programmazione/Esercizi").
-   * Tag: Utilizzare tag per facilitare la ricerca (es. "esame", "appunti", "progetto").
+### Rispetto:
+   * **Nessuno spam:** Evitare di caricare file non pertinenti o offensivi.
+   * **Crediti:** Citare sempre l'autore originale degli appunti nel caso in cui non siano di propria creazione, sarebbe gradito citare anche se vengono utilizzate Ai di qualsiasi tipo.
 
-**Rispetto:**
-   * Nessuno spam: Evitare di caricare file non pertinenti o offensivi.
-   * Crediti: Citare sempre l'autore originale degli appunti nel caso in cui non siano di propria creazione.
-   * Feedback: Fornire feedback costruttivo sugli appunti altrui per migliorare la qualità della risorsa.
-
-**Aggiornamenti:**
-   * Versioni: Indicare la versione degli appunti per tenere traccia delle modifiche.
-   * Correzioni: Segnalare eventuali errori o imprecisioni trovate negli appunti esistenti.
-
-**Perché seguire queste regole?**
+### Perché seguire queste regole?
  * Qualità: Assicurare che gli appunti siano utili e affidabili per tutti gli studenti.
- * Organizzazione: Facilitare la ricerca di materiali specifici.
- * Rispetto: Creare un ambiente di studio collaborativo e rispettoso.
+ * Utilità: Facilitare la ricerca di materiali specifici.
+ * Rispetto: Creare un ambiente di studio collaborativo.
  * Miglioramento continuo: Contribuire alla crescita della repository nel tempo.
-**Avviso:** L'amministratore della repository si riserva il diritto di rimuovere qualsiasi contenuto che violi queste linee guida.
-Collaboriamo per creare una risorsa preziosa per tutti gli studenti di Informatica!
+
+```Avviso: L'amministratore della repository si riserva il diritto di rimuovere qualsiasi contenuto che violi queste linee guida.
+Collaboriamo per creare una risorsa preziosa per tutti gli studenti di Informatica!```
