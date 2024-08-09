@@ -6,7 +6,7 @@
 ## 👩‍💻Repositories:
 - Matematica
 - Programmazione
-- Reti
+- Reti di Calcolatori e Programmazione di Rete
 - Architetture
 - Basi di Dati
 - Fondamenti dei Sistemi Web
