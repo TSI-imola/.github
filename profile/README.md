@@ -7,7 +7,7 @@
 - Matematica
 - Programmazione
 - Reti di Calcolatori e Programmazione di Rete
-- Architetture
+- Elementi di Architetture degli Elaboratori e Sistemi Operativi
 - Basi di Dati
 - Fondamenti dei Sistemi Web
 - Sistemi Virtualizzati
