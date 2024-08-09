@@ -5,7 +5,7 @@
 
 ## 👩‍💻Repositories:
 - Matematica
-- Programmazione
+- Programmazione C
 - Reti di Calcolatori e Programmazione di Rete
 - Elementi di Architetture degli Elaboratori e Sistemi Operativi
 - Basi di Dati
