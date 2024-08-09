@@ -11,7 +11,7 @@
 - Basi di Dati
 - Fondamenti dei Sistemi Web
 - Sistemi Virtualizzati
-- Fisica
+- Sperimentazione Fisica, Elettronica e Sensoristica per Informatica
 
 ## 📍Linee Guida:
 ### Qualità dei contenuti:
