@@ -19,7 +19,7 @@
    * **Pertinenza:** I contenuti devono essere direttamente collegati al programma di studi e alle materie indicate.
    * **Originalità:** Si incoraggia la condivisione di appunti personali, ma se possibile è ben accetto citare le fonti nel caso di materiale tratto da libri, siti web o se generato da Ai.
 ### Organizzazione:
-   * **Cartelle:** Organizzare i file all'interno di una cartella con il proprio nome. (es. "TSI-Imola/Programmazione-C/Alessandro Bruno/Esercizio1.c")
+   * **Cartelle:** Organizzare i file all'interno di una cartella con il proprio nome, a meno che non si voglia tenere anonimo. (es. "TSI-Imola/Programmazione-C/Alessandro Bruno/Esercizio1.c")
    * **Struttura:** Si può usare la struttura che si vuole purché i contenuti siano caricati nelle Repository delle materie specifiche.
    * **Nomenclatura:** Utilizzare nomi di file chiari e descrittivi (es. "Appunti_Algoritmi_ProfRossi.pdf").
    * **Tag**: Se possibile utilizzare tag per facilitare la ricerca (es. "esame", "appunti", "progetto").
